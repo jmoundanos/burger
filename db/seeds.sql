@@ -1,3 +1,3 @@
-INSERT INTO burgers (burger_name, devoured) VALUES("The Horseshoe", true);
-INSERT INTO burgers (burger_name, devoured) VALUES("The Superbird", true);
-INSERT INTO burgers (burger_name, devoured) VALUES("The Rosedale", true);
+INSERT INTO burgers (burger_name, devoured) VALUES("The Horseshoe", 0);
+INSERT INTO burgers (burger_name, devoured) VALUES("The Superbird", 0);
+INSERT INTO burgers (burger_name, devoured) VALUES("The Rosedale", 0);
